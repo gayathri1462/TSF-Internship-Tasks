@@ -9,3 +9,13 @@ Task 1 dataset- http://bit.ly/w-data
 Task 2 - To Explore Unsupervised Machine Learning. From the given ‘Iris’ dataset,we will predict the optimum number of clusters and represent it visually.
 
 Task 2 dataset - https://bit.ly/3kXTdox
+
+Task 3 - To Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’ using K-Means Clustering
+
+● As a business manager, try to find out the weak areas where you can work to make more profit.
+
+● What all business problems you can derive by exploring the data?
+
+Task 3 dataset - https://bit.ly/3i4rbWl
+
+
